@@ -1,0 +1,10 @@
+test_frames/
+test_videos/
+train_frames/
+train_videos/
+training_summaries/
+Results/
+temp_test_frames/
+temp_train_frames/
+checkpoints/
+bottlenecks/
